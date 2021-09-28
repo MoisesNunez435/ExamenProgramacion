@@ -1,0 +1,8 @@
+C:\Users\JADPA_15\source\repos\ExamenProgramacion\DoMain\bin\Debug\netstandard2.0\DoMain.deps.json
+C:\Users\JADPA_15\source\repos\ExamenProgramacion\DoMain\bin\Debug\netstandard2.0\DoMain.dll
+C:\Users\JADPA_15\source\repos\ExamenProgramacion\DoMain\bin\Debug\netstandard2.0\DoMain.pdb
+C:\Users\JADPA_15\source\repos\ExamenProgramacion\DoMain\obj\Debug\netstandard2.0\DoMain.csproj.CoreCompileInputs.cache
+C:\Users\JADPA_15\source\repos\ExamenProgramacion\DoMain\obj\Debug\netstandard2.0\DoMain.AssemblyInfoInputs.cache
+C:\Users\JADPA_15\source\repos\ExamenProgramacion\DoMain\obj\Debug\netstandard2.0\DoMain.AssemblyInfo.cs
+C:\Users\JADPA_15\source\repos\ExamenProgramacion\DoMain\obj\Debug\netstandard2.0\DoMain.dll
+C:\Users\JADPA_15\source\repos\ExamenProgramacion\DoMain\obj\Debug\netstandard2.0\DoMain.pdb
